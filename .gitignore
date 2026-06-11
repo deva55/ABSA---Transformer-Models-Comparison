@@ -1,6 +1,8 @@
 # Ignore full dataset folder
 Dataset/
 
+Presentation/Practicum Proposal Form.pdf
+
 # Python/Jupyter
 .ipynb_checkpoints/
 __pycache__/
